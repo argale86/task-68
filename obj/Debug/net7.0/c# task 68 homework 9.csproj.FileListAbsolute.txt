@@ -1,0 +1,15 @@
+E:\Обучение в ГБ\c# task 68 homework 9\obj\Debug\net7.0\c# task 68 homework 9.csproj.AssemblyReference.cache
+E:\Обучение в ГБ\c# task 68 homework 9\obj\Debug\net7.0\c# task 68 homework 9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение в ГБ\c# task 68 homework 9\obj\Debug\net7.0\c# task 68 homework 9.AssemblyInfoInputs.cache
+E:\Обучение в ГБ\c# task 68 homework 9\obj\Debug\net7.0\c# task 68 homework 9.AssemblyInfo.cs
+E:\Обучение в ГБ\c# task 68 homework 9\obj\Debug\net7.0\c# task 68 homework 9.csproj.CoreCompileInputs.cache
+E:\Обучение в ГБ\c# task 68 homework 9\bin\Debug\net7.0\c# task 68 homework 9.exe
+E:\Обучение в ГБ\c# task 68 homework 9\bin\Debug\net7.0\c# task 68 homework 9.deps.json
+E:\Обучение в ГБ\c# task 68 homework 9\bin\Debug\net7.0\c# task 68 homework 9.runtimeconfig.json
+E:\Обучение в ГБ\c# task 68 homework 9\bin\Debug\net7.0\c# task 68 homework 9.dll
+E:\Обучение в ГБ\c# task 68 homework 9\bin\Debug\net7.0\c# task 68 homework 9.pdb
+E:\Обучение в ГБ\c# task 68 homework 9\obj\Debug\net7.0\c# task 68 homework 9.dll
+E:\Обучение в ГБ\c# task 68 homework 9\obj\Debug\net7.0\refint\c# task 68 homework 9.dll
+E:\Обучение в ГБ\c# task 68 homework 9\obj\Debug\net7.0\c# task 68 homework 9.pdb
+E:\Обучение в ГБ\c# task 68 homework 9\obj\Debug\net7.0\c# task 68 homework 9.genruntimeconfig.cache
+E:\Обучение в ГБ\c# task 68 homework 9\obj\Debug\net7.0\ref\c# task 68 homework 9.dll
